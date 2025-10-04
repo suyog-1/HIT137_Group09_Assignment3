@@ -1,0 +1,7 @@
+transformers
+pillow
+torch
+scipy
+numpy
+accelerate
+huggingface_hub
