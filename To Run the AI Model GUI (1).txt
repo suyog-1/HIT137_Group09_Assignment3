@@ -1,0 +1,17 @@
+To Run the AI Model GUI 
+you need the following Python packages.
+
+transformers
+tkinter
+pillow
+torch
+scipy
+numpy
+accelerate 
+huggingface_hub
+
+Also audio playback only works on Windows and relies on default player and ability to open .wav files.
+
+The below can install everything required:
+
+pip install pillow transformers torch scipy numpy accelerate huggingface_hub
